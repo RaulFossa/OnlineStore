@@ -1,6 +1,7 @@
 # Online Store!
 # raul_andres 12/12/2015
 # This is a simple program using arrays, loops and more!
+# Welcome to the OnlineStore
 
 def thankyou():
     print("Thank you for shopping with us")
